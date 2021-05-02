@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right Triangle</title>
+    <link rel="stylesheet" href="rightTriangle.css">
+    
+</head>
+<body onload="setPage()"> 
+    <h1>Figure out the right triangle</h1>
+    <div id="main">
+        <div id="text"></div>
+        <div class="triangle"> </div>
+        <br>
+        <div id="getAnswer">
+            <p><input type="text" id="answer"></p> 
+            <p><input type="button" id="submitAnswer" onclick="submit()" value="Submit your answer"></p>
+        </div>
+        <div id="Results">
+        </div>
+        <div id="next">  
+            <p><input type="button", value="Go to the next problem", style="display:none" onclick="window.location.href=window.location.href" id="nextButton"></p>
+        </div>
+
+    </div>
+    
+    <script src="rightTriangle.js"></script>
+   
+</body>
+</html>
