@@ -12,7 +12,7 @@
 h1{
     padding-left: 3rem;
     font-style: italic;
-    color: purple;
+    color: green;
 
 }
 
@@ -31,7 +31,7 @@ h1{
     border-top-color: transparent;
     border-right-width: 300px;
     border-right-style: solid;
-    border-right-color:grey;
+    border-right-color: greenyellow;
     margin-right: auto;
     margin-left: auto;
   }
