@@ -36,7 +36,7 @@ let cosList = [
 ]
 
 let cos2List = [
-    `Suppose that from the top of a vertical cliff a ship is spotted at an angle of depression of ${ num2 } degrees.  If the cliff is ${ num1 } feet high, what is the distance from the top of the cliff to the ship?`, `Your doll is at the top of a ${ num1 } feet  model roller coaster.  The angle of depression from where she is, is ${ num2 } degrees. How long is the line of sight from you looking up at  her?`
+    `Suppose that from the top of a vertical cliff a ship is spotted at an angle of depression of ${ num2 } degrees.  If the cliff is ${ num1 } feet high, what is the distance from the top of the cliff to the ship?`, `Your doll is at the top of a ${ num1 } feet  model roller coaster.  The angle of sight for her is ${ num2 } degrees. How long is the line of sight from you looking up at  her?`
 ]
 
 let arcCosList = [
